@@ -1,10 +1,6 @@
 Hello, world. 
 
-I've been creating software as an engineer/architect or product manager for a very long time so have touched many (thousands, probably) 
-technologies...and it's still a joy to dig into new things when I have the opportunity.
-
-Lately I have been revisiting data/analytics engineering using dbt along with BigQuery, some Python here and there, Powerapps and Power BI 
-even though I've only occasionally bumped into Microsoft tools through the years (many, many years in Java, Spring, etc. on unix systems).  
+Lately I have been revisiting data/analytics engineering using dbt along with BigQuery, some Python here and there, Powerapps and Power BI and some front-end design.  
 
 I've always had an interest in music production, MIDI, synthesis, etc. Someday, it would be fun to learn audio signal processing in code. 
 
